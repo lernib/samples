@@ -1,4 +1,4 @@
-package lang.java.RandomStringChooser;
+package code.java.RandomStringChooser;
 
 import java.lang.Math;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package lang.java.RandomStringChooser;
+package code.java.RandomStringChooser;
 
 public class Main {
   public static void main(String[] args) {

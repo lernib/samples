@@ -3,6 +3,10 @@ package code.java.PolyStore;
 public class Product {
   public String name;
 
+  public Product() {
+    this.name = "something random";
+  }
+
   public Product(String name) {
     this.name = name;
   }

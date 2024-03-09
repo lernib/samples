@@ -1,0 +1,5 @@
+@2024-03-09T14:18:00.000-05:00
+
+Author: Tutor/Carlos Kieliszewski
+
+This is a simple Rust program designed to cross compile to Windows from Linux. It includes a cross-compile script.
